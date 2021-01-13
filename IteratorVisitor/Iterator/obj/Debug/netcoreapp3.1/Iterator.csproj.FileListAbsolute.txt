@@ -1,0 +1,11 @@
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+E:\Workspace\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+E:\Workspace\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+E:\Workspace\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+E:\Workspace\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+E:\Workspace\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+E:\Workspace\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
